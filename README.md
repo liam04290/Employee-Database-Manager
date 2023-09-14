@@ -15,4 +15,4 @@ Navigate to the project's directory in your terminal. Then, with node.js install
 -Update an employee's role <br>
 
 ## Image of application:
-<img width="596" alt="Screenshot 2023-09-14 at 3 40 37 AM" src="https://github.com/liam04290/Employee-Database-Manager/assets/106037383/fce5571d-1e6d-4e69-84d9-4f9263e0c433">
+<img width="596" alt="Screenshot 2023-09-14 at 3 40 37 AM" src="/assets/Demo.png">
