@@ -16,3 +16,6 @@ Navigate to the project's directory in your terminal. Then, with node.js install
 
 ## Image of application:
 <img width="596" alt="Screenshot 2023-09-14 at 3 40 37 AM" src="/assets/Demo.png">
+
+## Video of application:
+[Google Drive Link](https://drive.google.com/file/d/1c39HzBRXkIXc5y9EyRrGICaYQiMOUV8_/view)
